@@ -1,13 +1,13 @@
 0x01. Git
 
-Requirements
-General
+REQUIREMENTS
+GENERAL
 - A README.md file at the root of the alx-pre_course repo, containing a description of the repository
 - A README.md file, at the root of the folder of this project (i.e. 0x01-git), describing what this project is about
 - Do not use GitHub’s web UI, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web UI). You won’t be able to perform many of the task requirements on the web UI, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
 - Your answer files should only contain the command, and nothing else
 
-Basic usage
+BASIC USAGE
 At the end of this project you should be able to reproduce and understand these command lines:
 
 $ git clone <repo>
@@ -33,7 +33,7 @@ TASKS
 	For the moment we have an empty project directory containing only a README.md. It’s time to code!
 
 3. Collaboration is the base of a company
-	A branch is like a copy of your project. It’s used mainly for:
+	A branch is like a copy of your project.
 
 4. Collaboration: be up to date
 	Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
